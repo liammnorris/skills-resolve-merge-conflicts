@@ -1,3 +1,6 @@
-Dr. Doofenschmirtz
-Gru
-Goofy
+# References
+
+* Dr. Doofenschmirtz
+* Gru
+* Goofy
+* octocat 1 😈
